@@ -6,12 +6,14 @@
 ---
 
 # 👨‍💻 About Me
-Full-Stack Developer from Russia.  
-Passionate about building **clean, efficient and scalable applications**.  
+Frontend Developer from Russia.  
+Focused on building **modern, responsive and efficient interfaces**.  
 
-- 💻 Tech stack: **JavaScript / TypeScript / React / Node.js**  
-- 🛠 Exploring **backend frameworks & DevOps tools**  
-- 📚 Always learning and sharing knowledge  
+- 🎨 Strong in **React (Hooks, state management, components)**  
+- 🎯 Experienced with **SCSS, Tailwind CSS** for styling  
+- 🔗 Work with **REST API, HTTP/HTTPS requests, integrations**  
+- 🤖 Using **GrammyJS** for Telegram bot front integrations  
+- 📚 Always learning and exploring new frontend tools  
 
 📬 Email: [failkahusnutdinov@gmail.com](mailto:failkahusnutdinov@gmail.com)  
 🌐 Telegram: [@seldersss](https://t.me/seldersss)
@@ -22,9 +24,9 @@ Passionate about building **clean, efficient and scalable applications**.
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**TISBI-TestWork**](https://github.com/RicckSanches/TISBI-TestWork) | Тестовое задание (учебный проект) | JavaScript |
-| [**botinTG**](https://github.com/RicckSanches/botinTG) | Telegram-бот | Node.js |
+| [**botinTG**](https://github.com/RicckSanches/botinTG) | Telegram-бот (GrammyJS) | JS / GrammyJS |
 | [**Guess-the-number-game**](https://github.com/RicckSanches/Guess-the-number-game) | Игра «Угадай число» | JS / HTML / CSS |
-| [**On-screen-keyboard**](https://github.com/RicckSanches/On-screen-keyboard) | Экранная клавиатура | JS / HTML / CSS |
+| [**On-screen-keyboard**](https://github.com/RicckSanches/On-screen-keyboard) | Экранная клавиатура | JS / HTML / CSS / SCSS |
 | [**TypeScript-Study**](https://github.com/RicckSanches/TypeScript-Study) | Изучение TypeScript | TypeScript |
 
 ---
@@ -34,9 +36,13 @@ Passionate about building **clean, efficient and scalable applications**.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTTP/HTTPS-007ACC?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/GrammyJS-0F80C1?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -58,6 +64,8 @@ Passionate about building **clean, efficient and scalable applications**.
 
 # 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/RicckSanches/RicckSanches/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/RicckSanches/RicckSanches/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
+
 
